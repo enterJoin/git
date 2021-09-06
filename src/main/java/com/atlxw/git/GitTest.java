@@ -9,5 +9,7 @@ public class GitTest {
 
         System.out.println("push 操作成功");
         System.out.println("pull 操作成功");
+        
+        System.out.println("GitHub更新了  码云你快点");
     }
 }
